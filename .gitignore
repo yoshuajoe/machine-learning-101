@@ -103,3 +103,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+ml101/
+.other/
